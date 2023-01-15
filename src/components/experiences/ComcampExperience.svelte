@@ -17,6 +17,6 @@
   </div>
 
   <span class="text-neutral-400 mb-6">
-    An interactive real-time web application for the activity of CPE PRE-FRESHY CPE 2021 under the name of King Mongkut's University of Technology Thonburi (KMUTT).
+    Provide advice to Freshmen to develop web application for Comcamp 33 under the name of King Mongkut's University of Technology Thonburi (KMUTT).
   </span>
 </div>
