@@ -11,7 +11,7 @@
     Currently based in Bangkok, TH as Computer Engineering student and Founder at <a href="https://vectier.com" class="font-medium underline">Vectier</a>.
     <br />
     <br class="sm:hidden" />
-    I'm working around Full-stack web development and DevOps with cutting-edge technology.
+    I'm working around Full-stack web development and DevOps with cutting-edge technology. You can look a bit more my detail at <a href="https://files.riflowth.com/resume.pdf" class="underline">my resume</a>. or
   </span>
 
   <div class="flex flex-row space-x-6">
