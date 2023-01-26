@@ -7,7 +7,7 @@
     <div class="flex flex-col">
       <div class="flex flex-col mb-8">
         <span class="mb-3 text-lg text-white">
-          A Software Engineering
+          A Software Engineer
         </span>
         <span class="mb-5 text-6xl md:text-7xl text-white font-semibold">
           Krid<br />Heprahone
